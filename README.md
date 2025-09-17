@@ -4,9 +4,5 @@ This is my first repo!
 
 
 
-&nbsp;is the second line I added.
-
-
-
-
+ is the second line I added.
 
